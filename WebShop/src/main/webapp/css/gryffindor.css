@@ -1,0 +1,36 @@
+body {
+	color: #ffff00;
+	background-color: #000000;
+}
+
+footer {
+	background-color: #420504;
+}
+
+nav ul {
+	background-color: #420504;
+}
+
+nav ul li a {
+	color: ffff00;
+}
+
+nav ul li#actual {
+	background-color: #420504;
+}
+
+h1 {
+	background-image: url("../images/gryffindor.jpg");
+	heigth: 200px;
+	color: #ffff00;
+}
+
+div.container {
+	background-color: #800000;
+}
+
+/*  
+Yellow: #ffff00
+Red: #800000
+Darker red: #420504
+*/
